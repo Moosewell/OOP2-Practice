@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w5FM2myJY29cMtTNlocoCfznj3Jp2dKXL4ydgm3LFTj5+efE3ID8IGeMOPA6GwiKRNNTfUf70q4Xa5sG5FbMIQ==",
+  "success": true,
+  "projectFilePath": "D:\\max\\Code\\OOP2\\OOP2-Practice\\OOP2-Practice\\OOP2-lesson-2-Practice\\BankDTO\\BankDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

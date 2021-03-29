@@ -1,0 +1,121 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="jumbotron">
+    <h1 style=" text-align:center">BANK CLIENT</h1>
+    <p class="lead"></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2 style="font-size: 27px">Create Customer</h2>
+        <form action="Home/CreateCustomer" method="post">
+            <div>
+                <label for="firstName">First Name:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 5px" type="text" id="firstName" name="FirstName" required minlenght="2" maxlength="12" size="14">
+            </div>
+            <div>
+                <label for="lastName">Last Name:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 5px" type="text" id="lastName" name="LastName" required minlenght="2" maxlength="12" size="14">
+            </div>
+            <div>
+                <label for="socialSecurityNumber">Social Secutity Number:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 15px" type="text" id="socialSecurityNumber" name="SocialSecurityNumber" required minlenght="10" maxlength="10" size="12">
+            </div>
+
+            <input type="submit" value="Create">
+        </form>
+    </div>
+
+    <div class="col-md-4">
+        <h2 style="font-size: 27px">Create Bank Account</h2>
+        <form action="Home/CreateBankAccount" method="get">
+            <div>
+                <label for="customerId">Customer ID:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 5px" type="number" min="1" id="customerId" name="CustomerId" required minlenght="1" maxlength="10" size="12">
+            </div>
+            <div>
+                <label for="accountName">Account Name:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 15px" type="text" id="accountName" name="AccountName" required minlenght="4" maxlength="20" size="22">
+            </div>
+
+            <input type="submit" value="Create" style="margin-bottom: 100px">
+        </form>
+    </div>
+
+    <div class="col-md-4">
+        <h2 style="font-size: 27px">Get Customer Bank Accounts</h2>
+        <form action="Home/GetCustomerBankAccounts" method="post">
+            <div>
+                <label for="customerId">Customer ID:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 15px" type="number" min="1" id="customerId" name="customerId" required minlenght="1" maxlength="10" size="12">
+            </div>
+
+            <input type="submit" value="Get" style="margin-bottom: 180px">
+        </form>
+    </div>
+
+
+    <div class="col-md-4">
+        <h2 style="font-size: 27px">Withdraw</h2>
+        <form action="Home/Withdraw" method="post">
+            <div>
+                <label for="accountId">Account ID:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 5px" type="number" min="1" id="accountId" name="AccountId" required minlenght="1" maxlength="10" size="12">
+            </div>
+            <div>
+                <label for="amount">Amount:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 15px" type="number" min="0" id="amount" name="Amount" required minlenght="1" maxlength="10" size="12">
+            </div>
+
+            <input type="submit" value="Transact">
+        </form>
+    </div>
+
+    <div class="col-md-4">
+        <h2 style="font-size: 27px">Deposit</h2>
+        <form action="Home/Deposit" method="post">
+            <div>
+                <label for="accountId">Account ID:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 5px" type="number" min="1" id="accountId" name="AccountId" required minlenght="1" maxlength="10" size="12">
+            </div>
+            <div>
+                <label for="amount">Amount:</label>
+            </div>
+            <div>
+                <input style="margin-bottom: 15px" type="number" min="0" id="amount" name="Amount" required minlenght="1" maxlength="10" size="12">
+            </div>
+
+            <input type="submit" value="Transact">
+        </form>
+    </div>
+
+    <div class="col-md-4">
+        <h2 style="font-size: 27px">@Html.ActionLink("Get List Of Customers", "GetCustomerList", "Home")</h2>
+    </div>
+
+    <div class="col-md-4">
+        <h2 style="font-size: 27px">@Html.ActionLink("Get List of Bank Accounts", "GetBankAccountList", "Home")</h2>
+    </div>
+
+</div>

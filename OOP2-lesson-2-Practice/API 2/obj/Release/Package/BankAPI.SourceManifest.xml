@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\API 2\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\API 2\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\API 2\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

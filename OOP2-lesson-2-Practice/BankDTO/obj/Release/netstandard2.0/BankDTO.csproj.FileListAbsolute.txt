@@ -1,0 +1,9 @@
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\bin\Release\netstandard2.0\BankDTO.deps.json
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\bin\Release\netstandard2.0\BankDTO.dll
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\bin\Release\netstandard2.0\BankDTO.pdb
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\obj\Release\netstandard2.0\BankDTO.csprojAssemblyReference.cache
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\obj\Release\netstandard2.0\BankDTO.AssemblyInfoInputs.cache
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\obj\Release\netstandard2.0\BankDTO.AssemblyInfo.cs
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\obj\Release\netstandard2.0\BankDTO.csproj.CoreCompileInputs.cache
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\obj\Release\netstandard2.0\BankDTO.dll
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDTO\obj\Release\netstandard2.0\BankDTO.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Azure">
+  <DataContextMoniker Name="/AzureDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c5e3cc38-11ff-4d75-922f-a7f5b3fbb683" absoluteBounds="6.25, 2.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AzureDataContext/BankAccount" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bda4d001-f476-475d-982c-2e8a150c1578" absoluteBounds="6.2650000000000006, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0c785562-639c-4e21-9336-859b73a743d3" absoluteBounds="1.25, 1.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/AzureDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2463a89e-5dc8-404e-b653-1c0ea8c12589" absoluteBounds="1.2649999999999997, 2.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd389246-30a3-4879-8a93-a2fdfae477f4" absoluteBounds="3.75, 2.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AzureDataContext/CustomerBankAccount" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b34b3920-5fed-4955-8ffd-a0f4db93c85a" absoluteBounds="3.7649999999999997, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

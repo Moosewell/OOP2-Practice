@@ -1,0 +1,9 @@
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\bin\Release\BankDomain.dll
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\bin\Release\BankDomain.pdb
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\bin\Release\BankDTO.dll
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\bin\Release\BankDTO.pdb
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\obj\Release\BankDomain.csproj.CoreCompileInputs.cache
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\obj\Release\BankDomain.csproj.CopyComplete
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\obj\Release\BankDomain.dll
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\obj\Release\BankDomain.pdb
+D:\max\Code\OOP2\OOP2-lesson-2-Practice\OOP2-lesson-2-Practice\BankDomain\obj\Release\BankDomain.csprojAssemblyReference.cache
