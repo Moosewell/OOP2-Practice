@@ -1,0 +1,3 @@
+OOP2.lesson-2-Practice/BankRepository/bin/
+OOP2.lesson-2-Practice/BankRepository/app.config/
+OOP2.lesson-2-Practice/BankRepository/Settings.cs/
